@@ -1,0 +1,7 @@
+{
+    "single_line_comments": ["карпспки"],
+    "multi_line_comments": ["Это многострочный5656787\nкомментарий"],
+    "arrays": [[1, 2, 3], ["a", "b", "c"]],
+    "dictionaries": [{"имя": "7986", "лоп": "v9ошщо"}],
+    "constants": {"Abdullah": "значение"}
+}
